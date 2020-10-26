@@ -1,0 +1,16 @@
+{
+  "name": "clear-gdrive",
+  "version": "1.0.0",
+  "description": "This is a Node.js script that you can use to delete all files from your Google Drive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishi Dutt Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "googleapis": "^39.2.0",
+    "limiter": "^1.1.5"
+  }
+}
